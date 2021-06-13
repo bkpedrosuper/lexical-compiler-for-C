@@ -1,0 +1,419 @@
+#include na linha 1 e na coluna 1
+biblioteca  <stdio.h> na linha 1 e coluna 10
+#include na linha 2 e na coluna 0
+biblioteca  <stdlib.h> na linha 2 e coluna 9
+#include na linha 3 e na coluna 0
+biblioteca  <locale.h> na linha 3 e coluna 9
+define  #define na linha 4 e coluna 0
+identificador     TAM na linha 4 e coluna 8
+Inteiro 10 na linha 4 e na coluna 12
+tipo int na linha 6 e na coluna 0
+identificador     main na linha 6 e coluna 4
+Parênteses  ( na linha 6 e coluna 8
+Parênteses  ) na linha 6 e coluna 9
+Chave  { na linha 6 e coluna 11
+identificador     setlocale na linha 7 e coluna 4
+Parênteses  ( na linha 7 e coluna 13
+identificador     LC_ALL na linha 7 e coluna 14
+Vírgula  , na linha 7 e coluna 20
+String  "" na linha 7 e coluna 22
+Parênteses  ) na linha 7 e coluna 24
+Ponto e Vírgula  ; na linha 7 e coluna 25
+tipo int na linha 8 e na coluna 4
+identificador     numeros na linha 8 e coluna 8
+Colchete  [ na linha 8 e coluna 15
+identificador     TAM na linha 8 e coluna 16
+Colchete  ] na linha 8 e coluna 19
+Ponto e Vírgula  ; na linha 8 e coluna 20
+tipo int na linha 9 e na coluna 4
+identificador     i na linha 9 e coluna 8
+Vírgula  , na linha 9 e coluna 9
+identificador     aux na linha 9 e coluna 11
+Vírgula  , na linha 9 e coluna 14
+identificador     contador na linha 9 e coluna 16
+Ponto e Vírgula  ; na linha 9 e coluna 24
+Palavra reservada printf na linha 11 e na coluna 4
+Parênteses  ( na linha 11 e coluna 10
+String  "Entre com dez números para preencher o array, e pressione enter após digitar cada um:\n" na linha 11 e coluna 11
+Parênteses  ) na linha 11 e coluna 102
+Ponto e Vírgula  ; na linha 11 e coluna 103
+Palavra reservada for na linha 12 e na coluna 4
+Parênteses  ( na linha 12 e coluna 8
+identificador     i na linha 12 e coluna 9
+Caractere n reconhecido =
+Inteiro 0 na linha 12 e na coluna 12
+Ponto e Vírgula  ; na linha 12 e coluna 13
+identificador     i na linha 12 e coluna 15
+Caractere n reconhecido <
+identificador     TAM na linha 12 e coluna 18
+Ponto e Vírgula  ; na linha 12 e coluna 21
+identificador     i na linha 12 e coluna 23
+Operador  + na linha 12 e coluna 24
+Operador  + na linha 12 e coluna 25
+Parênteses  ) na linha 12 e coluna 26
+Chave  { na linha 12 e coluna 28
+Palavra reservada scanf na linha 13 e na coluna 8
+Parênteses  ( na linha 13 e coluna 13
+String  "%d" na linha 13 e coluna 14
+Vírgula  , na linha 13 e coluna 18
+Car  & na linha 13 e coluna 20
+identificador     numeros na linha 13 e coluna 21
+Colchete  [ na linha 13 e coluna 28
+identificador     i na linha 13 e coluna 29
+Colchete  ] na linha 13 e coluna 30
+Parênteses  ) na linha 13 e coluna 31
+Ponto e Vírgula  ; na linha 13 e coluna 32
+Chave  } na linha 14 e coluna 4
+Palavra reservada printf na linha 15 e na coluna 4
+Parênteses  ( na linha 15 e coluna 10
+String  "Ordem atual dos itens no array:\n" na linha 15 e coluna 11
+Parênteses  ) na linha 15 e coluna 46
+Ponto e Vírgula  ; na linha 15 e coluna 47
+Palavra reservada for na linha 16 e na coluna 4
+Parênteses  ( na linha 16 e coluna 8
+identificador     i na linha 16 e coluna 9
+Caractere n reconhecido =
+Inteiro 0 na linha 16 e na coluna 12
+Ponto e Vírgula  ; na linha 16 e coluna 13
+identificador     i na linha 16 e coluna 15
+Caractere n reconhecido <
+identificador     TAM na linha 16 e coluna 18
+Ponto e Vírgula  ; na linha 16 e coluna 21
+identificador     i na linha 16 e coluna 23
+Operador  + na linha 16 e coluna 24
+Operador  + na linha 16 e coluna 25
+Parênteses  ) na linha 16 e coluna 26
+Chave  { na linha 16 e coluna 28
+Palavra reservada printf na linha 17 e na coluna 4
+Parênteses  ( na linha 17 e coluna 10
+String  "%4d" na linha 17 e coluna 11
+Vírgula  , na linha 17 e coluna 16
+identificador     numeros na linha 17 e coluna 18
+Colchete  [ na linha 17 e coluna 25
+identificador     i na linha 17 e coluna 26
+Colchete  ] na linha 17 e coluna 27
+Parênteses  ) na linha 17 e coluna 28
+Ponto e Vírgula  ; na linha 17 e coluna 29
+Chave  } na linha 18 e coluna 4
+Palavra reservada for na linha 20 e na coluna 4
+Parênteses  ( na linha 20 e coluna 8
+identificador     contador na linha 20 e coluna 9
+Caractere n reconhecido =
+Inteiro 1 na linha 20 e na coluna 19
+Ponto e Vírgula  ; na linha 20 e coluna 20
+identificador     contador na linha 20 e coluna 22
+Caractere n reconhecido <
+identificador     TAM na linha 20 e coluna 32
+Ponto e Vírgula  ; na linha 20 e coluna 35
+identificador     contador na linha 20 e coluna 37
+Operador  + na linha 20 e coluna 45
+Operador  + na linha 20 e coluna 46
+Parênteses  ) na linha 20 e coluna 47
+Chave  { na linha 20 e coluna 49
+Palavra reservada for na linha 21 e na coluna 8
+Parênteses  ( na linha 21 e coluna 12
+identificador     i na linha 21 e coluna 13
+Caractere n reconhecido =
+Inteiro 0 na linha 21 e na coluna 16
+Ponto e Vírgula  ; na linha 21 e coluna 17
+identificador     i na linha 21 e coluna 19
+Caractere n reconhecido <
+identificador     TAM na linha 21 e coluna 22
+Operador  - na linha 21 e coluna 26
+Inteiro 1 na linha 21 e na coluna 28
+Ponto e Vírgula  ; na linha 21 e coluna 29
+identificador     i na linha 21 e coluna 31
+Operador  + na linha 21 e coluna 32
+Operador  + na linha 21 e coluna 33
+Parênteses  ) na linha 21 e coluna 34
+Chave  { na linha 21 e coluna 36
+Palavra reservada if na linha 22 e na coluna 12
+Parênteses  ( na linha 22 e coluna 15
+identificador     numeros na linha 22 e coluna 16
+Colchete  [ na linha 22 e coluna 23
+identificador     i na linha 22 e coluna 24
+Colchete  ] na linha 22 e coluna 25
+Caractere n reconhecido >
+identificador     numeros na linha 22 e coluna 28
+Colchete  [ na linha 22 e coluna 35
+identificador     i na linha 22 e coluna 36
+Operador  + na linha 22 e coluna 38
+Inteiro 1 na linha 22 e na coluna 40
+Colchete  ] na linha 22 e coluna 41
+Parênteses  ) na linha 22 e coluna 42
+Chave  { na linha 22 e coluna 44
+identificador     aux na linha 23 e coluna 16
+Caractere n reconhecido =
+identificador     numeros na linha 23 e coluna 21
+Colchete  [ na linha 23 e coluna 28
+identificador     i na linha 23 e coluna 29
+Colchete  ] na linha 23 e coluna 30
+Ponto e Vírgula  ; na linha 23 e coluna 31
+identificador     numeros na linha 24 e coluna 16
+Colchete  [ na linha 24 e coluna 23
+identificador     i na linha 24 e coluna 24
+Colchete  ] na linha 24 e coluna 25
+Caractere n reconhecido =
+identificador     numeros na linha 24 e coluna 28
+Colchete  [ na linha 24 e coluna 35
+identificador     i na linha 24 e coluna 36
+Operador  + na linha 24 e coluna 38
+Inteiro 1 na linha 24 e na coluna 40
+Colchete  ] na linha 24 e coluna 41
+Ponto e Vírgula  ; na linha 24 e coluna 42
+identificador     numeros na linha 25 e coluna 16
+Colchete  [ na linha 25 e coluna 23
+identificador     i na linha 25 e coluna 24
+Operador  + na linha 25 e coluna 26
+Inteiro 1 na linha 25 e na coluna 28
+Colchete  ] na linha 25 e coluna 29
+Caractere n reconhecido =
+identificador     aux na linha 25 e coluna 32
+Ponto e Vírgula  ; na linha 25 e coluna 35
+Chave  } na linha 26 e coluna 12
+Chave  } na linha 27 e coluna 8
+Chave  } na linha 28 e coluna 4
+Palavra reservada printf na linha 30 e na coluna 4
+Parênteses  ( na linha 30 e coluna 10
+String  "\nElementos do array em ordem crescente:\n" na linha 30 e coluna 11
+Parênteses  ) na linha 30 e coluna 55
+Ponto e Vírgula  ; na linha 30 e coluna 56
+Palavra reservada for na linha 31 e na coluna 4
+Parênteses  ( na linha 31 e coluna 8
+identificador     i na linha 31 e coluna 9
+Caractere n reconhecido =
+Inteiro 0 na linha 31 e na coluna 12
+Ponto e Vírgula  ; na linha 31 e coluna 13
+identificador     i na linha 31 e coluna 15
+Caractere n reconhecido <
+identificador     TAM na linha 31 e coluna 18
+Ponto e Vírgula  ; na linha 31 e coluna 21
+identificador     i na linha 31 e coluna 23
+Operador  + na linha 31 e coluna 24
+Operador  + na linha 31 e coluna 25
+Parênteses  ) na linha 31 e coluna 26
+Chave  { na linha 31 e coluna 28
+Palavra reservada printf na linha 32 e na coluna 8
+Parênteses  ( na linha 32 e coluna 14
+String  "%4d" na linha 32 e coluna 15
+Vírgula  , na linha 32 e coluna 20
+identificador     numeros na linha 32 e coluna 22
+Colchete  [ na linha 32 e coluna 29
+identificador     i na linha 32 e coluna 30
+Colchete  ] na linha 32 e coluna 31
+Parênteses  ) na linha 32 e coluna 32
+Ponto e Vírgula  ; na linha 32 e coluna 33
+Chave  } na linha 33 e coluna 4
+Palavra reservada printf na linha 34 e na coluna 4
+Parênteses  ( na linha 34 e coluna 10
+String  "\n" na linha 34 e coluna 11
+Parênteses  ) na linha 34 e coluna 15
+Ponto e Vírgula  ; na linha 34 e coluna 16
+Palavra reservada return na linha 35 e na coluna 4
+Inteiro 0 na linha 35 e na coluna 11
+Ponto e Vírgula  ; na linha 35 e coluna 12
+Chave  } na linha 36 e coluna 0
+# total de linhas = 36
+TABELA:
+id		 type		 row		 column		 value
+0		 DIRECTIVE		 1		 1		 #include
+1		 LIBRARY		 1		 10		 <stdio.h>
+2		 DIRECTIVE		 2		 0		 #include
+3		 LIBRARY		 2		 9		 <stdlib.h>
+4		 DIRECTIVE		 3		 0		 #include
+5		 LIBRARY		 3		 9		 <locale.h>
+6		 DEFINE		 4		 0		 #define
+7		 IDENTIFIER		 4		 8		 TAM
+8		 INTEGER		 4		 12		 10
+9		 TYPE		 6		 0		 int
+10		 IDENTIFIER		 6		 4		 main
+11		 PARENTHESES		 6		 8		 (
+12		 PARENTHESES		 6		 9		 )
+13		 QUOTE		 6		 11		 {
+14		 IDENTIFIER		 7		 4		 setlocale
+15		 PARENTHESES		 7		 13		 (
+16		 IDENTIFIER		 7		 14		 LC_ALL
+17		 COMMA		 7		 20		 ,
+18		 STRING		 7		 22		 ""
+19		 PARENTHESES		 7		 24		 )
+20		 SEMICOLON		 7		 25		 ;
+21		 TYPE		 8		 4		 int
+22		 IDENTIFIER		 8		 8		 numeros
+23		 BRACKET		 8		 15		 [
+24		 IDENTIFIER		 8		 16		 TAM
+25		 BRACKET		 8		 19		 ]
+26		 SEMICOLON		 8		 20		 ;
+27		 TYPE		 9		 4		 int
+28		 IDENTIFIER		 9		 8		 i
+29		 COMMA		 9		 9		 ,
+30		 IDENTIFIER		 9		 11		 aux
+31		 COMMA		 9		 14		 ,
+32		 IDENTIFIER		 9		 16		 contador
+33		 SEMICOLON		 9		 24		 ;
+34		 RESERVED		 11		 4		 printf
+35		 PARENTHESES		 11		 10		 (
+36		 STRING		 11		 11		 "Entre com dez números para preencher o array, e pressione enter após digitar cada um:\n"
+37		 PARENTHESES		 11		 102		 )
+38		 SEMICOLON		 11		 103		 ;
+39		 RESERVED		 12		 4		 for
+40		 PARENTHESES		 12		 8		 (
+41		 IDENTIFIER		 12		 9		 i
+42		 INTEGER		 12		 12		 0
+43		 SEMICOLON		 12		 13		 ;
+44		 IDENTIFIER		 12		 15		 i
+45		 IDENTIFIER		 12		 18		 TAM
+46		 SEMICOLON		 12		 21		 ;
+47		 IDENTIFIER		 12		 23		 i
+48		 OPERATOR		 12		 24		 +
+49		 OPERATOR		 12		 25		 +
+50		 PARENTHESES		 12		 26		 )
+51		 QUOTE		 12		 28		 {
+52		 RESERVED		 13		 8		 scanf
+53		 PARENTHESES		 13		 13		 (
+54		 STRING		 13		 14		 "%d"
+55		 COMMA		 13		 18		 ,
+56		 SEMICOLON		 13		 20		 &
+57		 IDENTIFIER		 13		 21		 numeros
+58		 BRACKET		 13		 28		 [
+59		 IDENTIFIER		 13		 29		 i
+60		 BRACKET		 13		 30		 ]
+61		 PARENTHESES		 13		 31		 )
+62		 SEMICOLON		 13		 32		 ;
+63		 QUOTE		 14		 4		 }
+64		 RESERVED		 15		 4		 printf
+65		 PARENTHESES		 15		 10		 (
+66		 STRING		 15		 11		 "Ordem atual dos itens no array:\n"
+67		 PARENTHESES		 15		 46		 )
+68		 SEMICOLON		 15		 47		 ;
+69		 RESERVED		 16		 4		 for
+70		 PARENTHESES		 16		 8		 (
+71		 IDENTIFIER		 16		 9		 i
+72		 INTEGER		 16		 12		 0
+73		 SEMICOLON		 16		 13		 ;
+74		 IDENTIFIER		 16		 15		 i
+75		 IDENTIFIER		 16		 18		 TAM
+76		 SEMICOLON		 16		 21		 ;
+77		 IDENTIFIER		 16		 23		 i
+78		 OPERATOR		 16		 24		 +
+79		 OPERATOR		 16		 25		 +
+80		 PARENTHESES		 16		 26		 )
+81		 QUOTE		 16		 28		 {
+82		 RESERVED		 17		 4		 printf
+83		 PARENTHESES		 17		 10		 (
+84		 STRING		 17		 11		 "%4d"
+85		 COMMA		 17		 16		 ,
+86		 IDENTIFIER		 17		 18		 numeros
+87		 BRACKET		 17		 25		 [
+88		 IDENTIFIER		 17		 26		 i
+89		 BRACKET		 17		 27		 ]
+90		 PARENTHESES		 17		 28		 )
+91		 SEMICOLON		 17		 29		 ;
+92		 QUOTE		 18		 4		 }
+93		 RESERVED		 20		 4		 for
+94		 PARENTHESES		 20		 8		 (
+95		 IDENTIFIER		 20		 9		 contador
+96		 INTEGER		 20		 19		 1
+97		 SEMICOLON		 20		 20		 ;
+98		 IDENTIFIER		 20		 22		 contador
+99		 IDENTIFIER		 20		 32		 TAM
+100		 SEMICOLON		 20		 35		 ;
+101		 IDENTIFIER		 20		 37		 contador
+102		 OPERATOR		 20		 45		 +
+103		 OPERATOR		 20		 46		 +
+104		 PARENTHESES		 20		 47		 )
+105		 QUOTE		 20		 49		 {
+106		 RESERVED		 21		 8		 for
+107		 PARENTHESES		 21		 12		 (
+108		 IDENTIFIER		 21		 13		 i
+109		 INTEGER		 21		 16		 0
+110		 SEMICOLON		 21		 17		 ;
+111		 IDENTIFIER		 21		 19		 i
+112		 IDENTIFIER		 21		 22		 TAM
+113		 OPERATOR		 21		 26		 -
+114		 INTEGER		 21		 28		 1
+115		 SEMICOLON		 21		 29		 ;
+116		 IDENTIFIER		 21		 31		 i
+117		 OPERATOR		 21		 32		 +
+118		 OPERATOR		 21		 33		 +
+119		 PARENTHESES		 21		 34		 )
+120		 QUOTE		 21		 36		 {
+121		 RESERVED		 22		 12		 if
+122		 PARENTHESES		 22		 15		 (
+123		 IDENTIFIER		 22		 16		 numeros
+124		 BRACKET		 22		 23		 [
+125		 IDENTIFIER		 22		 24		 i
+126		 BRACKET		 22		 25		 ]
+127		 IDENTIFIER		 22		 28		 numeros
+128		 BRACKET		 22		 35		 [
+129		 IDENTIFIER		 22		 36		 i
+130		 OPERATOR		 22		 38		 +
+131		 INTEGER		 22		 40		 1
+132		 BRACKET		 22		 41		 ]
+133		 PARENTHESES		 22		 42		 )
+134		 QUOTE		 22		 44		 {
+135		 IDENTIFIER		 23		 16		 aux
+136		 IDENTIFIER		 23		 21		 numeros
+137		 BRACKET		 23		 28		 [
+138		 IDENTIFIER		 23		 29		 i
+139		 BRACKET		 23		 30		 ]
+140		 SEMICOLON		 23		 31		 ;
+141		 IDENTIFIER		 24		 16		 numeros
+142		 BRACKET		 24		 23		 [
+143		 IDENTIFIER		 24		 24		 i
+144		 BRACKET		 24		 25		 ]
+145		 IDENTIFIER		 24		 28		 numeros
+146		 BRACKET		 24		 35		 [
+147		 IDENTIFIER		 24		 36		 i
+148		 OPERATOR		 24		 38		 +
+149		 INTEGER		 24		 40		 1
+150		 BRACKET		 24		 41		 ]
+151		 SEMICOLON		 24		 42		 ;
+152		 IDENTIFIER		 25		 16		 numeros
+153		 BRACKET		 25		 23		 [
+154		 IDENTIFIER		 25		 24		 i
+155		 OPERATOR		 25		 26		 +
+156		 INTEGER		 25		 28		 1
+157		 BRACKET		 25		 29		 ]
+158		 IDENTIFIER		 25		 32		 aux
+159		 SEMICOLON		 25		 35		 ;
+160		 QUOTE		 26		 12		 }
+161		 QUOTE		 27		 8		 }
+162		 QUOTE		 28		 4		 }
+163		 RESERVED		 30		 4		 printf
+164		 PARENTHESES		 30		 10		 (
+165		 STRING		 30		 11		 "\nElementos do array em ordem crescente:\n"
+166		 PARENTHESES		 30		 55		 )
+167		 SEMICOLON		 30		 56		 ;
+168		 RESERVED		 31		 4		 for
+169		 PARENTHESES		 31		 8		 (
+170		 IDENTIFIER		 31		 9		 i
+171		 INTEGER		 31		 12		 0
+172		 SEMICOLON		 31		 13		 ;
+173		 IDENTIFIER		 31		 15		 i
+174		 IDENTIFIER		 31		 18		 TAM
+175		 SEMICOLON		 31		 21		 ;
+176		 IDENTIFIER		 31		 23		 i
+177		 OPERATOR		 31		 24		 +
+178		 OPERATOR		 31		 25		 +
+179		 PARENTHESES		 31		 26		 )
+180		 QUOTE		 31		 28		 {
+181		 RESERVED		 32		 8		 printf
+182		 PARENTHESES		 32		 14		 (
+183		 STRING		 32		 15		 "%4d"
+184		 COMMA		 32		 20		 ,
+185		 IDENTIFIER		 32		 22		 numeros
+186		 BRACKET		 32		 29		 [
+187		 IDENTIFIER		 32		 30		 i
+188		 BRACKET		 32		 31		 ]
+189		 PARENTHESES		 32		 32		 )
+190		 SEMICOLON		 32		 33		 ;
+191		 QUOTE		 33		 4		 }
+192		 RESERVED		 34		 4		 printf
+193		 PARENTHESES		 34		 10		 (
+194		 STRING		 34		 11		 "\n"
+195		 PARENTHESES		 34		 15		 )
+196		 SEMICOLON		 34		 16		 ;
+197		 RESERVED		 35		 4		 return
+198		 INTEGER		 35		 11		 0
+199		 SEMICOLON		 35		 12		 ;
+200		 QUOTE		 36		 0		 }
