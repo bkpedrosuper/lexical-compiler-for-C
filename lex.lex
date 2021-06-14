@@ -6,7 +6,6 @@
 
 %{
     /* Para as funções atoi() e atof() */
-    #include <math.h>
     #include <stdio.h>
     #include <stdlib.h>
     #include <string.h>
@@ -31,7 +30,11 @@
 
 ID       [a-zA-Z_][a-zA-Z0-9_]*
 TYPE     int|float|void|char
-RESERVED if|for|printf|scanf|return
+CONDITIONAL_EXPRESSION if
+LOOP_EXPRESSION for|while
+READING_LINE_EXPRESSION printf|scanf
+RETURN_OPERATOR return
+RESERVED CONDITIONAL_EXPRESSION|LOOP_EXPRESSION|READING_LINE_EXPRESSION|RETURN_OPERATOR
 INCLUDE  \#include
 DEFINE \#define
 LIBRARY <[a-z][a-z]*.h>
@@ -39,7 +42,7 @@ LIBRARY <[a-z][a-z]*.h>
 DIGIT [0-9]
 INTEGER {DIGIT}+
 FLOAT {DIGIT}+"."{DIGIT}*
-OPERATOR "+"|"-"|"*"|"/"
+OPERATOR "="|"+"|"-"|"*"|"/"|"+="|"-="|"<"|">"
 STRING \".*\"
 
 
@@ -62,6 +65,12 @@ STRING \".*\"
 
 {DIGIT}+   {
                 printf("Inteiro %s na linha %d e na coluna %d\n", yytext, row, column);
+
+                // <expressao>: 
+                // <numero>
+                // <sem sinal>
+                // <digito>
+                // DIGIT+
 
                 symbolsTable[id] = (symbol *) malloc(sizeof(symbol));
                 symbolsTable[id]->id = id;
