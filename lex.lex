@@ -21,7 +21,7 @@
         char *type;
 
     } symbol;
-    symbol **symbolsTable;    
+    symbol **symbolsTable;
 %}
 
 /* ========================================================================== */

@@ -564,7 +564,7 @@ char *yytext;
         char *type;
 
     } symbol;
-    symbol **symbolsTable;    
+    symbol **symbolsTable;  
 #line 569 "lex.yy.c"
 /* ========================================================================== */
 /* ===========================  Sessão DEFINIÇÔES  ========================== */
